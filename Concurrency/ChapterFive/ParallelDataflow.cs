@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks.Dataflow;
 
-namespace Concurrency.ChapterFive.BlockLinks;
+namespace Concurrency.ChapterFive;
 
 public class ParallelDataflow
 {
