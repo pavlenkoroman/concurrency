@@ -2,7 +2,7 @@
 
 namespace Concurrency.ChapterFive;
 
-public class CustomBlocksDataflow
+public class CustomDataflowBlock
 {
     public IPropagatorBlock<int, int> CreateCustomBlock()
     {
