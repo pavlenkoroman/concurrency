@@ -1,6 +1,4 @@
-﻿using Concurrency.ChapterEleven.AsyncConstruction;
-
-namespace Concurrency.ChapterEleven.AsyncDispose;
+﻿namespace Concurrency.ChapterEleven.AsyncDispose;
 
 public class AsyncDisposeViaAsyncDisposable : IAsyncDisposable
 {
